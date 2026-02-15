@@ -37,26 +37,9 @@ const julius: Developer = {
 
 ---
 
-## 🏢 Professional Experience
+## 🏢 Experience
 
-<table>
-<tr>
-<td>
-
-**🔧 SAP** - _Dresden, Germany_  
-**Position**: Software Development Intern  
-**Impact**: Enterprise-level development experience
-
-</td>
-<td>
-
-**🔄 Optocycle** - _Tübingen, Germany_  
-**Position**: Development Intern  
-**Focus**: Sustainable technology solutions
-
-</td>
-</tr>
-</table>
+**🔧 SAP** (Dresden) • **🔄 Optocycle** (Tübingen) - _Software Development Intern_
 
 ---
 
@@ -88,56 +71,23 @@ const julius: Developer = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustThatRandomCoder&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustThatRandomCoder&layout=compact&langs_count=7&theme=react"/>
-  
-</div>
-
-<div align="center">
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=JustThatRandomCoder&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
-## 🌟 Fun Facts About Me
+## 🌟 Beyond Code
 
-<table>
-<tr>
-<td width="50%">
+🎾 Tennis player • 🏋️ Gym enthusiast • 👨‍🍳 Family cook • 🐈 Leo's human
 
-### 🎾 **Sports & Hobbies**
-
-- 🎾 Regular tennis player
-- 🏋️ Gym enthusiast
-- 👨‍🍳 Passionate cook for family
-- 🐈 Cat parent to Leo
-
-</td>
-<td width="50%">
-
-### 💡 **Coding Journey**
-
-- ⚡ **10 years old**: First "Hello World"
-- 🎨 **11 years old**: Discovered Figma & design
-- 🏢 **15 years old**: SAP & Optocycle intern
-- 🚀 **Now**: Building the future
-
-</td>
-</tr>
-</table>
+**Journey**: Started at 10 → Design at 11 → Interning at 15 → Building the future 🚀
 
 ---
 
 ## 🎯 What Drives Me
 
-<div align="center">
-  
-  > *"I'm a tech enthusiast who loves creating intuitive, human-centered experiences and exploring new technologies. In the future, I see myself continuing to create solutions—whether that's building my own tools or supporting software teams as their projects grow."*
-  
-  ### 🔥 **Always excited to collaborate!**
-  **Building websites • Tackling fresh ideas • Joining forces on bigger projects**
-  
-</div>
+> _Creating intuitive, human-centered experiences and building solutions that make a difference._
+
+**🔥 Always excited to collaborate!** Building websites • Fresh ideas • Bigger projects
 
 ---
 
