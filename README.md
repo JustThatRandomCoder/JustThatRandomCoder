@@ -80,7 +80,7 @@ const julius: Developer = {
 
 🎾 Tennis player • 🏋️ Gym enthusiast • 👨‍🍳 Family cook • 🐈 Leo's human
 
-**Journey**: Started at 10 → Design at 11 → Interning at 15 → Building the future 🚀
+**Journey**: Started at 9 → Design at 11 → Interning at 15 → Building the future 🚀
 
 ---
 
