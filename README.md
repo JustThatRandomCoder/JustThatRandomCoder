@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juliusgrimm.dev-00D8FF?style=for-the-badge&logo=react)](https://juliusgrimm.dev)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@juliusgrimm.dev)
 [![Instagram](https://img.shields.io/badge/@julius__gr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julius_gr_)
-[![Levo Studio](https://img.shields.io/badge/🌐_Levo-Studio-levo-studio.com-00D8FF?style=for-the-badge&logo=react)](https://levo-studio.com)
+[![Levo Studio](https://img.shields.io/badge/🌐_Levo_Studio-levo--studio.com-00D8FF?style=for-the-badge&logo=react)](https://levo-studio.com)
 
 </div>
 
