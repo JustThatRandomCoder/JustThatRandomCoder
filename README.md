@@ -33,7 +33,7 @@ const julius: Developer = {
 };
 ```
 
-> 💡 **Started coding at age 10** → **Discovered design at 11** → **Now creating the future**
+> 💡 **Started coding at age 9** → **Discovered design at 11** → **Now creating websites that drive results with levo-studio.com**
 
 ---
 
