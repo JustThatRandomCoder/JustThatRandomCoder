@@ -20,11 +20,11 @@
 
 ```typescript
 const julius: Developer = {
-  age: 15,
+  age: 16,
   location: "Tübingen, Germany 🇩🇪",
   school: "Uhland-Gymnasium Tübingen",
   codingJourney: {
-    startedAt: 10,
+    startedAt: 9,
     designDiscovery: 11,
     currentFocus: ["Web Development", "UI/UX Design", "AI Integration"],
   },
