@@ -1,113 +1,71 @@
-<div align="center">
-  
-  <!-- Dynamic Typing Header -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Julius+Grimm+%F0%9F%91%8B;15+y%2Fo+Web+Developer+%26+UI%2FUX+Designer;Tech+Enthusiast+%7C+Problem+Solver+%7C+Creator;From+T%C3%BCbingen%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
-  
-  <!-- Animated Banner -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  ### 🚀 Turning Ideas Into Reality • One Line of Code at a Time
+# Julius Grimm
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juliusgrimm.dev-00D8FF?style=for-the-badge&logo=react)](https://juliusgrimm.dev)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@juliusgrimm.dev)
-[![Instagram](https://img.shields.io/badge/@julius__gr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julius_gr_)
-[![Levo Studio](https://img.shields.io/badge/Levo_Studio-Software%20That%20Scales-0A0A0A?style=for-the-badge&logo=react&logoColor=00D8FF)](https://levo-studio.com)
-</div>
+*Founder on accident. Engineer by design.*
+
+[Portfolio](https://juliusgrimm.dev) · [Levo Studio](https://levo-studio.com) · [Email](mailto:me@juliusgrimm.dev)
 
 ---
 
-## 🧑‍💻 Who Am I?
-
-```typescript
-const julius: Developer = {
-  age: 16,
-  location: "Tübingen, Germany 🇩🇪",
-  school: "Uhland-Gymnasium Tübingen",
-  codingJourney: {
-    startedAt: 9,
-    designDiscovery: 11,
-    currentFocus: ["Web Development", "UI/UX Design", "AI Integration"],
-  },
-  philosophy: "Creating intuitive, human-centered experiences",
-  mission: "Building solutions that make a difference",
-};
+```
+$ whoami
 ```
 
-> 💡 **Started coding at age 9** → **Discovered design at 11** → **Now creating websites that drive results with Levo Studio**
+```
+julius grimm
+founder, developer, professional overthinker
+
+runs Levo Studio — built in Germany, hosted in Europe
+currently maintaining a four-node cluster he insists is "simple"
+habit: overengineering things that worked fine before
+```
+
+## Projects
+
+```
+$ ls ./projects --sort=overengineered
+
+levo-studio-tickets/        Mar 2026    Slightly overengineered customer support
+levo-studio-db-controller/  Apr 2026    Self-hosted database chaos, but with buttons
+levo-studio-finance/        Apr 2026    Accounting, but slightly less depressing
+orbitaly/                   Apr 2026    Messenger encryption paranoia, self-hosted
+vibevote/                   Apr 2026    Built because paper forms felt primitive
+snapshot/                   Jul 2026    A photo board that forgets you on purpose
+```
+
+Full write-ups on [juliusgrimm.dev](https://juliusgrimm.dev) →
+[Tickets](https://juliusgrimm.dev/projects/levo-studio-tickets) ·
+[DB Controller](https://juliusgrimm.dev/projects/levo-studio-db-controller) ·
+[Finance](https://juliusgrimm.dev/projects/levo-studio-finance) ·
+[Orbitaly](https://juliusgrimm.dev/projects/orbitaly) ·
+[VibeVote](https://juliusgrimm.dev/projects/vibevote) ·
+[Snapshot](https://juliusgrimm.dev/projects/snapshot)
+
+## Stack
+
+```
+$ cat survival-kit.json
+```
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,postgres,tailwind,docker,linux,figma,git,github,vscode&theme=dark"/>
+
+<sub>plus: Dokploy · YubiKeys · Bitwarden · an unreasonable amount of iced coffee</sub>
+
+## Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=JustThatRandomCoder&show_icons=true&hide_border=true&theme=dark" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustThatRandomCoder&layout=compact&hide_border=true&theme=dark" height="160"/>
+
+## Contact
+
+```
+$ contacts --format=honest
+
+email      me@juliusgrimm.dev              ancient technology, surprisingly reliable
+whatsapp   +49 176 61028522                convenient, mildly concerning
+linkedin   @julius-gr                      pretending to be professional
+instagram  @julius_gr_                     building publicly instead of sleeping
+github     @JustThatRandomCoder            version-controlled overengineering
+```
 
 ---
 
-## 🏢 Experience
-
-**🔧 SAP** (Dresden) • **🔄 Optocycle** (Tübingen) - _Software Development Intern_
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend Mastery
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Design & Creativity
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6B35?style=for-the-badge&logo=adobe&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JustThatRandomCoder&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
-
-## 🌟 Beyond Code
-
-🎾 Tennis player • 🏋️ Gym enthusiast • 👨‍🍳 Family cook • 🐈 Leo's human
-
-**Journey**: Started at 9 → Design at 11 → Interning at 15 → Building the future 🚀
-
----
-
-## 🎯 What Drives Me
-
-> _Creating intuitive, human-centered experiences and building solutions that make a difference._
-
-**🔥 Always excited to collaborate!** Building websites • Fresh ideas • Bigger projects
-
----
-
-## 📱 Connect With Me
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juliusgrimm.dev-00D8FF?style=for-the-badge&logo=react&logoColor=white)](https://juliusgrimm.dev)
-  [![Email](https://img.shields.io/badge/📧_Let's_Chat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@juliusgrimm.dev)
-  [![Instagram](https://img.shields.io/badge/@julius__gr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julius_gr_)
-  
-  ---
-  
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=JustThatRandomCoder&style=for-the-badge&color=00D8FF" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/JustThatRandomCoder?style=for-the-badge&color=00D8FF" alt="Followers"/>
-  </div>
-  
-  ### ⭐ **From [JustThatRandomCoder](https://github.com/JustThatRandomCoder) with ❤️**
-  
-  *Last Updated: April 2026 🚀*
-  
-</div>
+<sub>© 2026 Julius Grimm · made with too much iced coffee and 47 open tabs</sub>
