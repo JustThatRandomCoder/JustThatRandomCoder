@@ -30,15 +30,16 @@ levo-studio-finance/        Apr 2026    Accounting, but slightly less depressing
 orbitaly/                   Apr 2026    Messenger encryption paranoia, self-hosted
 vibevote/                   Apr 2026    Built because paper forms felt primitive
 snapshot/                   Jul 2026    A photo board that forgets you on purpose
+fernweh/                    Aug 2026    A walking sim that’s basically Oregon Trail for people who hate stakes.
+reps/                       Aug 2026    A gym tracker that doesn't want your data or your soul
+reps/                       Aug 2026    A gym tracker that doesn't want your data or your soul
+score/                      Aug 2026    Abitur planning without the 2009 Excel vibes or mandatory accounts.
+steady/                     Aug 2026    Weight tracking that stays calm when the scale doesn't.
+pulse/                      Aug 2026    A dashboard confirming I have no life outside the terminal.
+
 ```
 
-Full write-ups on [juliusgrimm.dev](https://juliusgrimm.dev) →
-[Tickets](https://juliusgrimm.dev/projects/levo-studio-tickets) ·
-[DB Controller](https://juliusgrimm.dev/projects/levo-studio-db-controller) ·
-[Finance](https://juliusgrimm.dev/projects/levo-studio-finance) ·
-[Orbitaly](https://juliusgrimm.dev/projects/orbitaly) ·
-[VibeVote](https://juliusgrimm.dev/projects/vibevote) ·
-[Snapshot](https://juliusgrimm.dev/projects/snapshot)
+Full write-ups on [juliusgrimm.dev](https://juliusgrimm.dev)
 
 ## Stack
 
