@@ -63,7 +63,7 @@ $ contacts --format=honest
 email      me@juliusgrimm.dev              ancient technology, surprisingly reliable
 whatsapp   +49 176 61028522                convenient, mildly concerning
 linkedin   @julius-gr                      pretending to be professional
-instagram  @julius_gr_                     building publicly instead of sleeping
+instagram  @justthatrandomcoder            building publicly instead of sleeping
 github     @JustThatRandomCoder            version-controlled overengineering
 ```
 
