@@ -35,7 +35,9 @@ reps/                       Aug 2026    A gym tracker that doesn't want your dat
 reps/                       Aug 2026    A gym tracker that doesn't want your data or your soul
 score/                      Aug 2026    Abitur planning without the 2009 Excel vibes or mandatory accounts.
 steady/                     Aug 2026    Weight tracking that stays calm when the scale doesn't.
-pulse/                      Aug 2026    A dashboard confirming I have no life outside the terminal.
+pulse/                      Sep 2026    A dashboard confirming I have no life outside the terminal.
+loop/                       Sep 2026    A study timer that shows the time instead of taking it.
+fuel/                       Sep 2026    A calorie tracker with no account, no streak, and no opinion about your week.
 
 ```
 
